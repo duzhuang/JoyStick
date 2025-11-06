@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "76f37538-e02a-4ada-abcf-dad91974f8a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "skin_player_paladin_run": {
+      "ver": "1.0.4",
+      "uuid": "9eede63a-13d7-4a75-aa7e-4759f0286b46",
+      "rawTextureUuid": "76f37538-e02a-4ada-abcf-dad91974f8a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 59,
+      "height": 21,
+      "rawWidth": 60,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c597b8db-c145-4b65-b7db-2de4a089019f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 19,
+  "platformSettings": {},
+  "subMetas": {
+    "skin_player_necro_idle": {
+      "ver": "1.0.4",
+      "uuid": "29a66d35-842d-4ee3-821c-af257244786f",
+      "rawTextureUuid": "c597b8db-c145-4b65-b7db-2de4a089019f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 19,
+      "rawWidth": 60,
+      "rawHeight": 19,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

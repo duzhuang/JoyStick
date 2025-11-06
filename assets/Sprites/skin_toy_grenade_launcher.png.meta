@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "80c4f31b-def2-4715-b166-04879eceec79",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 30,
+  "height": 15,
+  "platformSettings": {},
+  "subMetas": {
+    "skin_toy_grenade_launcher": {
+      "ver": "1.0.4",
+      "uuid": "003bdde8-329f-4805-a9c4-34e6de9690d1",
+      "rawTextureUuid": "80c4f31b-def2-4715-b166-04879eceec79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 30,
+      "height": 15,
+      "rawWidth": 30,
+      "rawHeight": 15,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

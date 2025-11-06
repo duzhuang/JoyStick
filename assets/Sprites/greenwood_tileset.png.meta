@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1c367641-4c68-4ebd-8da7-c242e340119d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 400,
+  "height": 400,
+  "platformSettings": {},
+  "subMetas": {
+    "greenwood_tileset": {
+      "ver": "1.0.4",
+      "uuid": "93523e37-a84e-4575-b223-dc50124e7c32",
+      "rawTextureUuid": "1c367641-4c68-4ebd-8da7-c242e340119d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -96,
+      "offsetY": 112,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 208,
+      "height": 176,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1e811a7d-9b89-42fb-b239-cb675cc66852",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 40,
+  "height": 15,
+  "platformSettings": {},
+  "subMetas": {
+    "skin_toy_minigun": {
+      "ver": "1.0.4",
+      "uuid": "dc816501-8eb1-4933-8ba7-053fbc6205c0",
+      "rawTextureUuid": "1e811a7d-9b89-42fb-b239-cb675cc66852",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 15,
+      "rawWidth": 40,
+      "rawHeight": 15,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

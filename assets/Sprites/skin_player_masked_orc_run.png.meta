@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "60b9c665-47c1-4f3e-9287-8c182a5ff69f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 21,
+  "platformSettings": {},
+  "subMetas": {
+    "skin_player_masked_orc_run": {
+      "ver": "1.0.4",
+      "uuid": "639f25af-092f-4341-871e-992b38893004",
+      "rawTextureUuid": "60b9c665-47c1-4f3e-9287-8c182a5ff69f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 21,
+      "rawWidth": 60,
+      "rawHeight": 21,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
