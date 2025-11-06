@@ -11,7 +11,7 @@ export default class PrefabJoyStick extends cc.Component {
     @property({ tooltip: "最大半径" })
     maxRadius: number = 100;
 
-    @property({ tooltip: "死区" })
+    @property({ tooltip: "死区", min: 0, max: 1 })
     deadZone: number = 0.1;
 
     /** 方向向量 */
